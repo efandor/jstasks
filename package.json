@@ -1,0 +1,8 @@
+{
+  "name": "learn.javascript.ru-tasks",
+  "version": "1.0.0",
+  "description": "learn.javascript.ru tasks",
+  "main": "index.js",
+  "author": "Pavel Litvinov",
+  "license": "ISC"
+}
