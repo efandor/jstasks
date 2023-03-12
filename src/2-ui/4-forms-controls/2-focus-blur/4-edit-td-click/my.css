@@ -1,0 +1,35 @@
+.typing .text {
+  border: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  resize: none;
+  outline: none;
+  overflow: auto;
+}
+
+.buttons {
+  position: absolute;
+  width: 100%;
+  bottom: -30px;
+}
+
+.ok-btn,
+.cancel-btn {
+  height: 20px;
+  width: min-content;
+  padding: 0 15px;
+  margin: 2px;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  font-weight: bold;
+  background-color: rgb(85, 84, 84);
+  color: white;
+  cursor: pointer;
+}
+
+.typing {
+  position: relative;
+  padding: 0;
+}
